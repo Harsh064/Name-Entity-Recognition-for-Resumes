@@ -1,4 +1,5 @@
 # Named-Entity Recognition to Process Resumes
+Colab Link: https://colab.research.google.com/github/Harsh064/Name-Entity-Recognition-for-Resumes/blob/main/Named_Entity_Recognition_For_Resumes.ipynb
 
 ## Overview
 This project focuses on extracting and classifying key information from resumes, such as:
